@@ -218,7 +218,7 @@ Desde la ventana de PCB goto UPL button y EagleUp_export.ulp (enter)
 
 llenar segunda ventana:
 
-<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/pcb-software2.png" height="250" alt=" " /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/pcb-software2.png" height="300" alt=" " /></p>
 
 Grosor de la tarjeta 1.6<br>
 Elegimos color<br>
