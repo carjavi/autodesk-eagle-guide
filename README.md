@@ -10,6 +10,9 @@
 
 > :warning: **Warning:** Todo el material aquí expuesto es para la versión 6 de Eagle que estoy probando en la última versión.
 
+<h1 align="center">Autodesk Eagle 6</h1> 
+<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/eagle6.png" height="200" alt=" " /></p>
+
 ## Donde buscar librerías para Eagle?
 1.	En la página de Eagle: https://cadsoft.io/resources/libraries/?query=8452
 2.	En la página de www.sparkfun.com ofrecen el componente, datasheet y a veces librería.
@@ -198,7 +201,7 @@ Para crear renders 3D con este programa necesitamos 3 programas:
 
 Llenar la ventana:
 
-<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/pcb-software.png" height="100" alt=" " /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/pcb-software.png" height="250" alt=" " /></p>
 
 C:\EAGLE-7.6.0\models<br>
 C:\Program Files\ImageMagick-6.8.6-Q16\convert.exe<br>
@@ -215,7 +218,7 @@ Desde la ventana de PCB goto UPL button y EagleUp_export.ulp (enter)
 
 llenar segunda ventana:
 
-<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/pcb-software2.png" height="100" alt=" " /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/pcb-software2.png" height="250" alt=" " /></p>
 
 Grosor de la tarjeta 1.6<br>
 Elegimos color<br>
