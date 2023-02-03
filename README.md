@@ -293,6 +293,43 @@ drill.ncd - Perforación ncdrill<br>
 *.stc (Solder stop mask, component side)<br>
 *.sts (Solder stop mask, solder side)<br>
 
+## El Archivo Txt de leyenda
+Top layer: *.GTL<br>
+Bottom layer: *.GBL<br>
+Solder Stop Mask top: *.GTS <br>
+Solder Stop Mask Bottom:  *.GBS <br>
+Silk Top: *.GTO<br>
+Silk Bottom: *.GBO<br>
+Board Outline: *.GML/GKO<br>
+NC Drill: *.TXT  <br>
+Excellon Drill: *.DRD<br>
+Stencil Top:  *.GTP <br>
+Stencil Bottom:  *.GBP<br>
+Tool Rack File(excellon): *.drl<br>
+
+
+## Como Generar el archivo de las perforaciones
+Tamaño de las perforaciones: Comando run drillcfg  seleccionamos en (mm) y tiene formato .drl (Tool Rack File)
+
+A continuación:
+1.	En el menú botón CAM Proccessor / Open / Job…
+2.	Ruta C:\EAGLE-7.6.0\cam\excellon.cam
+3.	Device : Excellon_Rack
+4.	Rack: (es un Boton)  seleccionamos  de taladros *.DRL)
+5.	File: %N.drd
+6.	Process Job 
+7.	listo
+
+## Como generar los Stencil
+Como generar el archivo GTP/ GBP<br>
+8. Abrimos el PCB y en el botón de capas solo dejamos activa la capa CREAM  31 (top) o capa 32(bottom)<br>
+9.	En el menú botón CAM Proccessor<br>
+10.	Section: stecil<br>
+11.	Capas (31 tCream) y (20 dimesion)<br>
+12.	Output: GERBER_RS274X<br>
+13.	Nombre: Nombre_stencil.gtp<br>
+14.	Proccess job<br>
+Listo.
 
 
 <br>
