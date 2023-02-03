@@ -11,7 +11,7 @@
 > :warning: **Warning:** Todo el material aquí expuesto es para la versión 6 de Eagle que estoy probando en la última versión.
 
 <h1 align="center">Autodesk Eagle 6</h1> 
-<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/eagle6.jpg" height="200" alt=" " /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carjavi/autodesk-eagle-guide/master/img/eagle6.jpeg" height="200" alt=" " /></p>
 
 ## Donde buscar librerías para Eagle?
 1.	En la página de Eagle: https://cadsoft.io/resources/libraries/?query=8452
